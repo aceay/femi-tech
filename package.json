@@ -1,0 +1,25 @@
+{
+  "name": "femi-tech",
+  "version": "1.0.0",
+  "description": "TECH WEBSITE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aceay/femi-tech.git"
+  },
+  "keywords": [
+    "TECHNOLOGY"
+  ],
+  "author": "ESTHER MACHARIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aceay/femi-tech/issues"
+  },
+  "homepage": "https://github.com/aceay/femi-tech#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
